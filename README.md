@@ -1,9 +1,9 @@
-thanks to the following tutorial:
+Thanks to the following tutorial:
 http://www-inf.it-sudparis.eu/~nguyen_n/teaching_assistant/servlet-jsp/helloworld-tomcat
 
 javac -cp /data/apache-tomcat-7.0.53/lib/servlet-api.jar HelloServlet.java
 
-1.Download Apache Tomcat to your PC.
+1.Download Apache Tomcat to your PC.\n
 2.Extract and move it to appropriate folder.
 3.Go to [your tomcat]/bin and run: startup.sh
 4.Open your browser and type: http://localhost:8080/ to verify if your tomcat is running.
