@@ -1,14 +1,14 @@
-Thanks to the following tutorial:
+Thanks to the following tutorial:<br>
 http://www-inf.it-sudparis.eu/~nguyen_n/teaching_assistant/servlet-jsp/helloworld-tomcat
 
 javac -cp /data/apache-tomcat-7.0.53/lib/servlet-api.jar HelloServlet.java
 
 1.Download Apache Tomcat to your PC.<br>
-2.Extract and move it to appropriate folder.
-3.Go to [your tomcat]/bin and run: startup.sh
-4.Open your browser and type: http://localhost:8080/ to verify if your tomcat is running.
-5.Back to [your tomcat]/bin and run: shutdown.sh
-6.Refresh your browser to check whether your tomcat was stopped.
+2.Extract and move it to appropriate folder.<br>
+3.Go to [your tomcat]/bin and run: startup.sh<br>
+4.Open your browser and type: http://localhost:8080/ to verify if your tomcat is running.<br>
+5.Back to [your tomcat]/bin and run: shutdown.sh<br>
+6.Refresh your browser to check whether your tomcat was stopped.<br>
 
 
 Creating "HelloWorld" servlet
