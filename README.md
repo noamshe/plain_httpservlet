@@ -1,3 +1,6 @@
+thanks to the following tutorial:
+http://www-inf.it-sudparis.eu/~nguyen_n/teaching_assistant/servlet-jsp/helloworld-tomcat
+
 javac -cp /data/apache-tomcat-7.0.53/lib/servlet-api.jar HelloServlet.java
 
 1.Download Apache Tomcat to your PC.
